@@ -1,4 +1,4 @@
-package com.itcast;
+package com.itcast.thread;
 
 import org.junit.Test;
 
