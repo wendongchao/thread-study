@@ -1,4 +1,4 @@
-package com.itcast.thread;
+package com.itcast.thread.demo;
 
 /**
  * synchronized(非this对象x)同步代码块：

@@ -1,4 +1,4 @@
-package com.itcast.thread;
+package com.itcast.thread.demo;
 
 /**
  * 三个售票窗口同时出售20张票

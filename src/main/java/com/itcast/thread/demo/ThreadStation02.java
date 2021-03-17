@@ -1,4 +1,4 @@
-package com.itcast.thread;
+package com.itcast.thread.demo;
 
 /**
  * 多线程售票：实现Runnable,并使用synchronized锁定检票操作

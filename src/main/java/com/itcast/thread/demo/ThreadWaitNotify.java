@@ -1,4 +1,4 @@
-package com.itcast.thread;
+package com.itcast.thread.demo;
 
 /**
  * wait notify 等待通知

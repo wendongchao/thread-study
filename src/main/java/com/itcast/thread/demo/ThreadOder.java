@@ -1,4 +1,4 @@
-package com.itcast.thread;
+package com.itcast.thread.demo;
 
 import java.util.concurrent.*;
 import java.util.concurrent.locks.Condition;

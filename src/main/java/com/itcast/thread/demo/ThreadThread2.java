@@ -1,4 +1,4 @@
-package com.itcast.thread;
+package com.itcast.thread.demo;
 
 public class ThreadThread2 {
     public static void main(String[] args) {

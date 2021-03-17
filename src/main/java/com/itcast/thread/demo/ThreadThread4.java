@@ -1,4 +1,4 @@
-package com.itcast.thread;
+package com.itcast.thread.demo;
 
 /**
  * synchronized(非this对象)与同步synchronized方法是异步调用的
